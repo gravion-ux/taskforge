@@ -33,18 +33,3 @@ This policy covers the code in this repository. Vulnerabilities in
 third-party dependencies should also be reported to their respective
 projects; if one affects this project directly, a private report here is
 still welcome.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
