@@ -1,7 +1,10 @@
+<p align="center"><img src="assets/banner.svg" alt="taskforge banner" width="100%"/></p>
+
 # TaskForge
 
-A full-stack project & task management app — think a lean Trello/Asana clone — with
-projects, kanban boards, tasks, comments and role-based access control.
+[![CI](https://github.com/gravion-ux/taskforge/actions/workflows/ci.yml/badge.svg)](https://github.com/gravion-ux/taskforge/actions/workflows/ci.yml)
+
+**A full-stack project & task management app — think a lean Trello/Asana clone — with projects, kanban boards, tasks, comments and role-based access control.**
 
 **Author:** Priyanshu Kumar Thakur (Gravion) — github.com/gravion-ux
 
